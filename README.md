@@ -14,7 +14,7 @@ Checkout the [Formal Specification](https://github.com/gnosis/dex-research/blob/
 
 # CLI Examples
 
-Checkout our [wiki](https://github.com/gnosis/dex-contracts/wiki/Script-Usage-Examples)
+Checkout our [wiki](https://github.com/gnosis/dex-contracts/wiki/Script-Usage-Examples) 
 
 
 # Contributors
